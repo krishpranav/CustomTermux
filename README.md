@@ -7,4 +7,4 @@ A simple tool for customizing your termux with voice login
 - cd CustomTermux
 - bash install.sh
 # note
-- i have taken install.sh from
+- i have taken install.sh from https://github.com/OnlineHacKing/Voice-Welcome/blob/master/install.sh
