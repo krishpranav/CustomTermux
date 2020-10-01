@@ -8,3 +8,5 @@ A simple tool for customizing your termux with voice login
 - bash install.sh
 # note
 - i have taken install.sh from https://github.com/OnlineHacKing/Voice-Welcome/blob/master/install.sh
+
+- Tool Is Created By Krishna Pranav
